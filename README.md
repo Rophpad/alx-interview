@@ -5,3 +5,4 @@ This repository contains a list of directories all about some technical intervie
 ## Directories
 
 + [0x00-pascal_triangle](./0x00-pascal_triangle)
++ [0x01-lockboxes](./0x01-lockboxes)
