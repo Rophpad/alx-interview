@@ -11,3 +11,4 @@ This repository contains a list of directories all about some technical intervie
 + [0x04-utf8_validation](./0x04-utf8_validation)
 + [0x05-nqueens](./0x05-nqueens)
 + [0x06-starwars_api](./0x06-starwars_api)
++ [0x07-rotate_2d_matrix](./0x07-rotate_2d_matrix)
