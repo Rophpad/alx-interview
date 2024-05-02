@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """ Dynamic programming and greedy algorithms:
     the coin change problem
 """
