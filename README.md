@@ -14,3 +14,4 @@ This repository contains a list of directories all about some technical intervie
 + [0x07-rotate_2d_matrix](./0x07-rotate_2d_matrix)
 + [0x08-making_change](./0x08-making_change)
 + [0x09-island_perimeter](./0x09-island_perimeter)
++ [0x0A-primegame](./0x0A-primegame)
