@@ -14,7 +14,10 @@ class Player:
 def isWinner(x, nums):
     """  Return the winner for the Prime Game
     """
-    if (not isinstance(x, int) or not isinstance(nums, list)):
+    if (
+        not isinstance(x, int) or not isinstance(nums, list)
+        or not x or not nums
+    ):
         return None
 
     Maria = Player(0, False)
